@@ -23,6 +23,7 @@
         <module>63-unique paths ii</module>
         <module>664-strange printer</module>
         <module>920-number of music playlists</module>
+        <module>729-my calendar i</module>
     </modules>
 
     <build>
