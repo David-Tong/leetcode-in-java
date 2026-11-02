@@ -1,6 +1,6 @@
 # LeetCode in Java
 
-Each solution is an independent Maven module. The root `pom.xml` imports all nine
+Each solution is an independent Maven module. The root `pom.xml` imports all
 modules into IntelliJ IDEA without committing IDE metadata.
 
 ## IntelliJ IDEA
@@ -24,7 +24,7 @@ mvn clean verify
 Run a sample after building, for example:
 
 ```shell
-java -cp "33-search in rotated sorted array/target/classes" Main
+java -cp "33-search-in-rotated-sorted-array/target/classes" Main
 ```
 
 Replace the module directory to run another solution. Each module uses the default

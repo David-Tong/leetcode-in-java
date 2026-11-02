@@ -14,16 +14,19 @@
     </properties>
 
     <modules>
-        <module>207-course schedule</module>
-        <module>2487-remove nodes from linked list</module>
-        <module>322-coin change</module>
-        <module>33-search in rotated sorted array</module>
-        <module>343-integer break</module>
-        <module>518-coin change ii</module>
-        <module>63-unique paths ii</module>
-        <module>664-strange printer</module>
-        <module>920-number of music playlists</module>
-        <module>729-my calendar i</module>
+        <module>207-course-schedule</module>
+        <module>2487-remove-nodes-from-linked-list</module>
+        <module>322-coin-change</module>
+        <module>33-search-in-rotated-sorted-array</module>
+        <module>343-integer-break</module>
+        <module>518-coin-change-ii</module>
+        <module>63-unique-paths-ii</module>
+        <module>664-strange-printer</module>
+        <module>920-number-of-music-playlists</module>
+        <module>729-my-calendar-i</module>
+        <module>220-contains-duplicate-iii</module>
+        <module>855-exam-room</module>
+        <module>2034-stock-price-fluctuation</module>
     </modules>
 
     <build>
