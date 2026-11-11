@@ -9,7 +9,7 @@
     <packaging>pom</packaging>
 
     <properties>
-        <maven.compiler.release>8</maven.compiler.release>
+        <maven.compiler.release>17</maven.compiler.release>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     </properties>
 
@@ -27,7 +27,22 @@
         <module>220-contains-duplicate-iii</module>
         <module>855-exam-room</module>
         <module>2034-stock-price-fluctuation</module>
+        <module>1882-process-tasks-using-servers</module>
+        <module>1606-find-servers-that-handled-most-number-of-requests</module>
+        <module>1604-alert-using-same-key-card-three-or-more-times-in-a-one-hour-period</module>
+        <module>3790-smallest-all-ones-multiple</module>
+        <module>1-two-sum</module>
+        <module>3-longest-substring-without-repeating-characters</module>
     </modules>
+
+    <dependencies>
+        <dependency>
+            <groupId>org.junit.jupiter</groupId>
+            <artifactId>junit-jupiter</artifactId>
+            <version>5.12.0</version>
+            <scope>test</scope>
+        </dependency>
+    </dependencies>
 
     <build>
         <plugins>
